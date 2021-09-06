@@ -1,0 +1,25 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "name": "Teresita"
+      },
+      {
+        "id": 2,
+        "name": "Ale"
+      },
+      {
+        "id": 3,
+        "name": "Alison"
+      },
+
+      {
+        "id":4 ,
+        "name": "Karla"
+      },
+      {
+        "id": 5,
+        "name": "Fany"
+      }
+    ]
+  }
